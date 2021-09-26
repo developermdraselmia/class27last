@@ -591,3 +591,10 @@
         left: 59%;
     }
 }
+
+
+@media(max-width:320){
+    .defalt-input {
+        padding-left: 11px;
+    }
+}
